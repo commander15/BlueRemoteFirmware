@@ -1,0 +1,14 @@
+./
+/home/commander/Projects/BlueRemoteFirmware/include
+/home/commander/Projects/BlueRemoteFirmware/src
+/home/commander/.platformio/packages/framework-arduino-avr/cores/arduino
+/home/commander/.platformio/packages/framework-arduino-avr/variants/standard
+/home/commander/Projects/BlueRemoteFirmware/lib/Core
+/home/commander/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+/home/commander/.platformio/packages/framework-arduino-avr/libraries/HID/src
+/home/commander/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+/home/commander/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+/home/commander/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+/home/commander/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed
+/home/commander/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include
+/home/commander/.platformio/packages/toolchain-atmelavr/avr/include
